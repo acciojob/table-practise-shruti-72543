@@ -3,17 +3,17 @@ table{
 	background-color:yellow;
 	height:50%;
 	width:50%;
-	border:2px solid black;
+	border:1px solid black;
 	font weight:900;
 	margin:0px;
 	padding:2px;
 
 }
 	table>thead>tr>th{
-		border:2px solid black;
+		border:1px solid black;
 	}
 	table>tbody>tr>td{
-		border:2px solid black;
+		border:1px solid black;
 
 		
 	}
